@@ -18,4 +18,4 @@ Any and all contributions, issues, features and tips are welcome.
 
 ### Contact
 
-For any Suggestion / Ideas ping me at [@SNEHASISHBANIK7](https://twitter.com/SNEHASISHBANIK7?s-09)
+govindprajapati771@gmail.com
