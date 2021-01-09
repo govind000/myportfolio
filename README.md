@@ -1,4 +1,3 @@
-# SnehasishBanik1609.github.io
 # Portfolio-Template
 A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers etc.
 
